@@ -1,7 +1,7 @@
-h1, nav, #About {text-align: center;}
+h1, nav, #About, #Other-Projects {text-align: center;}
 h3, p.resource, a:link {color: midnightblue;}
 footer {font-size: small;}
 .photo, .main-photo {display: block; margin-left: auto; margin-right: auto;}
 h1 {background-color: aquamarine;}
-section > ul > li, section > ol > li {color: darkred;}
+section > ul > li, section > ol > li, .model {color: darkred;}
 a:visited {color: darkorchid;}
